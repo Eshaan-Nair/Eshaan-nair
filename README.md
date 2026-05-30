@@ -1,9 +1,3 @@
-<div align="center">
-
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm;AI+Engineer+%26+Full-Stack+Dev;Building+tools+that+actually+work." alt="Typing SVG" />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eshaan%20Nair&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Builder&descAlignY=58&descSize=18" />
 
